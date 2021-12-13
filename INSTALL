@@ -1,0 +1,6 @@
+To install as a regular user:
+
+$ mkdir -p $HOME/.local/share/evolution/preview-plugins/ && \
+  cp unmangle-outlook-safelinks.js $HOME/.local/share/evolution/preview-plugins/
+
+Restart Evolution
